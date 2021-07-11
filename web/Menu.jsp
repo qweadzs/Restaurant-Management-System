@@ -54,7 +54,7 @@ li a:hover:not(.active) {
       }
 </style>
 <meta charset="EUC-KR">
-<title>¤±¤±·¹½ºÅä¶û</title>
+<title>ã…ã…ë ˆìŠ¤í† ëž‘</title>
 </head>
 <body>
 <div style="text-align:center">
@@ -73,12 +73,12 @@ li a:hover:not(.active) {
       
     <div class="container">
        <div class="jumbotron">
-          <h1> ¸Þ´º ¼Ò°³</h1>
-          <p>¿ì¸® ·¹½ºÅä¶ûÀº Á¸³ª ¸ÀÀÖ´Ù ÀÌ±â!! </p>
-          <a class="btn btn-primary btn-pull" href="#" role="button">´çÀå ¿¹¾àÇÏÀÚ ÀÌ±â!</a>   
+          <h1> ë©”ë‰´ ì†Œê°œ</h1>
+          <p> </p>
+          <a class="btn btn-primary btn-pull" href="#" role="button"></a>   
        </div>
     </div>
-    <div class="container">            <!--»çÁøÄ­  -->
+    <div class="container">            <!--ì‚¬ì§„ì¹¸  -->
        <div id="myCarousel" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -96,7 +96,7 @@ li a:hover:not(.active) {
              <img src="images/stak3.PNG">
           </div>
        </div>
-       <a class="left carousel-control" href="#myCarousel" data-slide="prev">      <!--È­»ìÇ¥  -->
+       <a class="left carousel-control" href="#myCarousel" data-slide="prev">      <!--í™”ì‚´í‘œ  -->
           <span class="glyphicon glyphicon-chevron-left"></span>
        </a>
        <a class="right carousel-control" href="#myCarousel" data-slide="next">
